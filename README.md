@@ -1,22 +1,23 @@
 # Character_RNN
 Train and Generate text using character level RNN
 
-#Train and generate your own text
+**Train and generate your own text**
 
 python3 main.py Train --file_path path_to_txt
 
-#Generate text using trained model
+**Generate text using trained model**
 This model has been trained on two Shakespear text. One is poem and another play
 
-To generate poem
+**To generate poem**
 
 python3 main.py Generate --type Poem
 
-To generate play
+**To generate play**
 
 python3 main.py Generate --type Play
 
-##Examples of Poem Generated
+**Examples of Poem Generated**
+
 
 Lord of my love, and then that weilt, and lie,
 
@@ -44,7 +45,7 @@ Which bust as, what is, false thou thou mading,
 Not that your bravingant, every then
 
 
-##Examples of Play Generated 
+**Examples of Play Generated** 
 
 Romeo:
 Is't it folly, prince,
