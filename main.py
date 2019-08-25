@@ -18,7 +18,7 @@ def train_generate(path_txt):
     examples_per_epoch = len(text_as_int)// seq_length
     steps_per_epoch = (examples_per_epoch//BATCH_SIZE)
     model.compile(optimizer='adam',loss='sparse_categorical_crossentropy',metrics=['accuracy'])
-    history=model.fit(data.repeat(), steps_per_epoch = steps_per_epoch, epochs=5, verbose=2)
+    history=model.fit(data.repeat(), steps_per_epoch = steps_per_epoch, epochs=100, verbose=2)
     start_text = input('Enter the start of your text : ')
     generate_txt(model,start_text,char2idx,idx2char,vocab_size,seq_length=seq_length, num_chars=1000)
     print('\n')
