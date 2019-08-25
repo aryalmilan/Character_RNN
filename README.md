@@ -19,28 +19,18 @@ python3 main.py Generate --type Play
 ##Examples of Poem Generated
 
 Lord of my love, and then that weilt, and lie,
-
 For me to I fine nothing speaken might,
-
 Which see payough heart ke then beholds to be,
-
 And retair besiege your self was seelly stay,
-
 I then I be unon thine.
-
 For should I cane ofle have lite wete with with wind's worked kadd,
-
 Against can siter the sworn that I may's quain,
-
 And since will of me a good dead.
 
 
 How can my love sould an wence formest,
-
 That made my love no such death,
-
 Which bust as, what is, false thou thou mading,
-
 Not that your bravingant, every then
 
 
